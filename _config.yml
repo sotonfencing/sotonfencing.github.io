@@ -1,0 +1,13 @@
+# Site settings
+title: Southampton University Fencing Club
+email: webmaster@sotonfencing.co.uk
+description:
+    We are a student-run Fencing club based at the University of Southampton,
+    UK. We provide coaching for all ability levels, and compete throughout the
+    country.
+baseurl: ""
+url: "http://sotonfencing.co.uk/"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
