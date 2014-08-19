@@ -1,0 +1,10 @@
+{
+  "name": "sotonfencing.co.uk",
+  "version": "0.0.0",
+  "author": "Southampton University Fencing Club",
+  "license": "TODO",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^0.11.1"
+  }
+}

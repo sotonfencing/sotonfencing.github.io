@@ -11,3 +11,5 @@ url: "http://sotonfencing.co.uk/"
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude:
+    - node_modules
