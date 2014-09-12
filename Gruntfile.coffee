@@ -3,6 +3,9 @@ module.exports = (grunt) ->
 		pkg: grunt.file.readJSON('package.json')
 		less: {
 			dynamic_mappings: {
+				options: {
+					strictUnits: true
+				}
 				files: [
 					{
 						expand: true
