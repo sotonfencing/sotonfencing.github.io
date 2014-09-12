@@ -7,6 +7,10 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	{% if page.stylesheet %}
+	<link rel="stylesheet" href="{{ page.stylesheet | prepend: site.baseurl }}">
+	{% else %}
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	{% endif %}
 
 </head>
