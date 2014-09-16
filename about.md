@@ -27,7 +27,7 @@ If you're aged 16 or over please get in touch with us to find out whether we can
 
 ### Socials ###
 
-We have regular socials (including non-alcoholic socials) that take many forms, such as fancy dress, pub crawls, restaurants and film nights. Our Social Secretary will keep you informed via [the Facebook group](https://facebook.com/groups/sotonfencing/), and would also like to hear your ideas for memorable socials.
+We have regular socials (including non-alcoholic socials) that take many forms, such as fancy dress, pub crawls, restaurants and film nights. Our Social Secretary will keep you informed via [the Facebook group]({{site.links.facebook_group}}), and would also like to hear your ideas for memorable socials.
 
 The Committee
 -------------
@@ -47,6 +47,6 @@ These are the people responsible for running the club. The committee for the 201
 Contact Us
 ----------
 
-If you want to get in touch, you can email us at [fencing@soton.ac.uk](mailto:fencing@soton.ac.uk), or post on [our Facebook group](https://facebook.com/groups/sotonfencing/).
+If you want to get in touch, you can email us at [{{site.email}}](mailto:{{site.email}}), or post on [our Facebook group]({{site.links.facebook_group}}).
 
 For website-related issues, you can email our webmaster at [webmaster@sotonfencing.co.uk](mailto:webmaster@sotonfencing.co.uk).

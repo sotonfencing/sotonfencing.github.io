@@ -36,4 +36,4 @@ These sessions for more experienced fencers are less structured, and mostly cons
 During vacations
 ----------------
 
-During vacations, our novice sessions do not run, but all fencers are welcome to attend the intermediate and advanced sessions, which typically continue (subject to room closures for University maintenance). Check [our Facebook group](https://facebook.com/groups/sotonfencing/) beforehand to find out whether a session is going ahead.
+During vacations, our novice sessions do not run, but all fencers are welcome to attend the intermediate and advanced sessions, which typically continue (subject to room closures for University maintenance). Check [our Facebook group]({{site.links.facebook_group}}) beforehand to find out whether a session is going ahead.

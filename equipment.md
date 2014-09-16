@@ -9,7 +9,7 @@ permalink: /equipment/
 
 Whilst fencing is generally considered to be an expensive sport, it's not that expensive compared to some. We do not suggest that you go out and buy everything at once, but if you can afford it then having your own kit is nicer than having to use club kit, and frees up club kit for other members.
 
-We do urge you to speak to one of the more experienced fencers at the club (or ask for advice on [our Facebook group](https://facebook.com/groups/sotonfencing/)) before buying kit.
+We do urge you to speak to one of the more experienced fencers at the club (or ask for advice on [our Facebook group]({{site.links.facebook_group}})) before buying kit.
 
 Things to note when buying kit
 ------------------------------
