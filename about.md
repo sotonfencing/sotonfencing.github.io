@@ -19,11 +19,11 @@ About the Club
 
 We cater for all ability levels, from novices to those competing at the highest levels. We run several training sessions aimed at different skill groups, and we have a qualified coach to ensure that everyone gets the most from the sessions.
 
-Our members compete in various competitions all around the country, ranging from the student-run [Warwick Novices](http://warwickfencing.com/national-novices/) and [LIUF](http://uclufencing.co.uk/liuf/) tournaments to opens and the BUCS championships.
+Our members compete in various competitions all around the country, ranging from the student-run [Warwick Novices](http://warwickfencing.com/national-novices/) and [LIUF](http://uclufencing.co.uk/liuf/) tournaments to opens and the [BUCS](http://bucs.org.uk/) championships.
 
 We also accept non-student members, though for insurance reasons we generally do not accept members below the age of 18.
 
-If you're aged 16 or over please get in touch with us to find out whether we can accommodate you; otherwise, we would recommend getting in touch with Hampshire Fencing to find your nearest other club.
+If you're aged 16 or over please get in touch with us to find out whether we can accommodate you; otherwise, we would recommend getting in touch with [Hampshire Fencing](http://www.hampshirefencing.org.uk/) to find your nearest other club.
 
 ### Socials ###
 
