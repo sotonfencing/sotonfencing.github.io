@@ -1,0 +1,50 @@
+html {
+  background: url(/images/index-background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+.main {
+  position: fixed;
+  bottom: 2em;
+  left: 0;
+  right: 0;
+  text-shadow: 2px 2px 2px black;
+}
+.main .title {
+  text-align: center;
+}
+.main .title .titleEmph {
+  color: #c81111;
+}
+.main .description {
+  max-width: 30em;
+  margin: 2em auto;
+  padding: 0.5em;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 0.5em;
+}
+.bottomNav {
+  position: fixed;
+  bottom: 1em;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+.bottomNav > a {
+  padding: 2em;
+  font-style: italic;
+  color: white;
+}
+.legalGumph {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: small;
+  text-align: right;
+  color: gray;
+}
+.legalGumph a,
+.legalGumph a:hover,
+.legalGumph a:visited {
+  color: #A0A0A0;
+}
