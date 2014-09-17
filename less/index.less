@@ -1,11 +1,23 @@
 @import (reference) "color-scheme.less";
 
+.unposition() {
+	position: static;
+	top: auto;
+	bottom: auto;
+	left: auto;
+	right: auto;
+}
+
 html {
+	height: 100%;
+
 	background: url(/images/index-background.jpg) no-repeat center center fixed;
 	background-size: cover;
 
 	color: white;
 }
+
+@mainWidth: 30em;
 
 .main {
 	position: fixed;
@@ -22,28 +34,41 @@ html {
 	}
 
 	.description {
-		max-width: 30em;
+		max-width: @mainWidth;
 		margin: 2em auto;
 		padding: 0.5em;
 
 		background-color: rgba(0,0,0, 0.2);
 		border-radius: 0.5em;
 	}
-}
 
-.bottomNav {
-	position: fixed;
-	bottom: 1em;
-	left: 0;
-	right: 0;
+	.bottomNav {
+		position: fixed;
+		bottom: 1em;
+		left: 0;
+		right: 0;
 
-	text-align: center;
+		text-align: center;
 
-	& > a {
-		padding: 2em;
+		& > a {
+			padding: 2em;
+			white-space: nowrap;
 
-		font-style: italic;
-		color: white;
+			font-style: italic;
+			color: white;
+		}
+	}
+
+	@media (max-width: @mainWidth) {
+		.unposition();
+
+		.bottomNav {
+			.unposition();
+			& > a {
+				padding-top: 0;
+				padding-bottom: 0;
+			}
+		}
 	}
 }
 
@@ -58,5 +83,12 @@ html {
 
 	a, a:hover, a:visited {
 		color: #A0A0A0;
+	}
+
+	@media (max-width: @mainWidth) {
+		.unposition();
+
+		margin-top: 2em;
+		text-align: center;
 	}
 }

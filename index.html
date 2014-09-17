@@ -10,14 +10,14 @@ stylesheet: cssbin/index.css
 	</h1>
 
 	<p class=description>{{ site.description }}</p>
-</div>
 
-<nav class=bottomNav>
-	{% assign sorted_pages = site.pages | sort:"sort_order" %}
-	{% for page in sorted_pages %}
-	{% if page.title %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-	{% endfor %}
-</nav>
+	<nav class=bottomNav>
+		{% assign sorted_pages = site.pages | sort:"sort_order" %}
+		{% for page in sorted_pages %}
+		{% if page.title %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+		{% endfor %}
+	</nav>
+</div>
 
 <footer class=legalGumph>
 	<div>Website {{ site.copyright }}</div>
