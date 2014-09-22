@@ -25,7 +25,8 @@ We also accept non-student members, though for insurance reasons we generally do
 
 If you're aged 16 or over please get in touch with us to find out whether we can accommodate you; otherwise, we would recommend getting in touch with [Hampshire Fencing](http://www.hampshirefencing.org.uk/) to find your nearest other club.
 
-### Socials ###
+Socials
+-------
 
 We have regular socials (including non-alcoholic socials) that take many forms, such as fancy dress, pub crawls, restaurants and film nights. Our Social Secretary will keep you informed via [the Facebook group]({{site.links.facebook_group}}), and would also like to hear your ideas for memorable socials.
 
