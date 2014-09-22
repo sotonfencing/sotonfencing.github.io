@@ -6,7 +6,7 @@ html {
 }
 .main {
   position: fixed;
-  bottom: 4em;
+  bottom: 2.5em;
   left: 0;
   right: 0;
   text-shadow: 2px 2px 2px black;
@@ -15,7 +15,7 @@ html {
   text-align: center;
 }
 .main .title .titleEmph {
-  color: #c81111;
+  color: #ff1919;
 }
 .main .description {
   max-width: 30em;
@@ -25,16 +25,23 @@ html {
   border-radius: 0.5em;
 }
 .main .bottomNav {
-  position: fixed;
-  bottom: 3em;
-  left: 0;
-  right: 0;
+  max-width: 30em;
+  padding: 1em 0;
+  border-width: 1px 0;
+  margin: 0 auto;
+  border-style: solid;
+  border-color: white;
+  background-color: rgba(0, 0, 0, 0.5);
   text-align: center;
 }
 .main .bottomNav > a {
-  padding: 2em;
+  padding: 1em 1.5em;
   white-space: nowrap;
   font-style: italic;
+  color: #ff1919;
+}
+.main .bottomNav > a:hover {
+  background-image: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.7), transparent);
   color: white;
 }
 @media (max-width: 30em) {
