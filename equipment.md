@@ -30,7 +30,7 @@ This depends on which weapon you will be fencing. We start all our novices on fo
 
 ### Weapons ###
 
-Here some would suggest paying the extra for an FIE blade. These blades generally last longer as the steel they are made of is manufactured to a higher standard. The cheaper blades from any company (except sword price fighters) will do if you are a novice/intermediate. Whatever the weapon, make sure you buy the electric variant. There's no point buying your own weapon if you then can't use it in competition.
+Here some would suggest paying the extra for an FIE blade. These blades generally last longer as the steel they are made of is manufactured to a higher standard. The cheaper blades from any company (except Sword Price Fighters) will do if you are a novice/intermediate. Whatever the weapon, make sure you buy the electric variant. There's no point buying your own weapon if you then can't use it in competition.
 
 Suppliers
 ---------
@@ -63,7 +63,7 @@ PBT's kit is of very good quality, pricing wise, a little cheaper than Leon Paul
 
 ### Sword Price Fighters ###
 
-This is the cheapest of all the kit companies. When buying kit, make sure that you buy their ‘competition range’. You get what you pay for with sword price fighters. Personally I'd rather buy clothing from here, but I'd buy blades from another company, simply because I don't think Sword Price Fighters blades will be as reliable or last as long.
+This is the cheapest of all the kit companies. When buying kit, make sure that you buy their ‘competition range’. You get what you pay for with Sword Price Fighters. Personally I'd rather buy clothing from here, but I'd buy blades from another company, simply because I don't think Sword Price Fighters blades will be as reliable or last as long.
 
 <http://swordpricefighters.com>
 
