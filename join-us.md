@@ -16,7 +16,7 @@ Fees
 
 You can find information about our fees on [our SUSU groups page]({{site.links.susu_group}}). Fees can be paid in cash (either to our Treasurer or at SUSU Reception) or online. Student entitlement cards can be used.
 
-Non-students or students at other universities will also have to be affiliate members of the Southampton University Students Union. This can be purchased at the SUSU reception and costs about £11 for the academic year.
+Non-students or students at other universities will also have to be affiliate members of the Southampton University Students Union. This can be purchased at the SUSU Reception and costs about £11 for the academic year.
 
 Guests
 ------
