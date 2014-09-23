@@ -12,7 +12,7 @@ Please wear trainers and sports clothes to training sessions. Jeans should not b
 Taster sessions
 ---------------
 
-A taster session is usually held on the weekend at the end of Freshers' Week. This year's session will be on (TODO: DATE including year) in (TODO: LOCATION) between (TODO: TIMES). Please wear trainers and sports clothes. Bringing a cold drink is recommended.
+A taster session is usually held on the weekend at the end of Freshers' Week. This year's session will be on **Saturday 27th September 2014 in the [Old Sports Hall, SUSU Building (42)][OldSportsHall] between 18:00 and 21:00**. Please wear trainers and sports clothes. Bringing a cold drink is recommended.
 
 Term time sessions
 ------------------
@@ -21,15 +21,15 @@ During [term time](http://www.calendar.soton.ac.uk/semesters.html), we run a num
 
 ### Novice training ###
 
-**TODO: DAY at TIME, LOCATION**
+**Saturdays from 16:30 until 18:30, in the [Old Sports Hall, SUSU Building (42)][OldSportsHall].**
 
 This session is focussed on beginner fencers. Our coach and more experienced members will give introductory training in foil fencing, covering posture, footwork, and blade work. A typical session starts with warm up exercises or games, followed by teaching and a chance to practice by fencing both novice and experienced fencers.
 
 ### Intermediate and advanced sessions ###
 
-**TODO: DAY at TIME, LOCATION**
+**Thursdays from 17:00 until 19:00, in the [Activities Room, SUSU Building (42)][ActivitiesRoom].**
 
-**TODO: DAY at TIME, LOCATION**
+**Fridays from 18:00 until 20:00, in the [Activities Room, SUSU Building (42)][ActivitiesRoom].**
 
 These sessions for more experienced fencers are less structured, and mostly consist of free fencing in any of the three weapons.
 
@@ -37,3 +37,6 @@ During vacations
 ----------------
 
 During vacations, our novice sessions do not run, but all fencers are welcome to attend the intermediate and advanced sessions, which typically continue (subject to room closures for University maintenance). Check [our Facebook group]({{site.links.facebook_group}}) beforehand to find out whether a session is going ahead.
+
+[OldSportsHall]: http://maps.southampton.ac.uk/#1/20/50.93400/-1.39753 "Map showing the Old Sports Hall"
+[ActivitiesRoom]: http://maps.southampton.ac.uk/#2/20/50.93395/-1.39797 "Map showing the Activities Room"
