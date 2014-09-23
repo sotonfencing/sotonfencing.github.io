@@ -7,7 +7,7 @@ permalink: /training/
 
 All our regular training sessions are free for club members to attend, and we can provide all necessary equipment. Coaching is available for free at most sessions.
 
-Please wear trainers and sports clothes to training sessions. Jeans should not be worn at the University sports facilities (due to [Sports and Wellbeing regulations](https://soton.ac.uk/sportandwellbeing/membership/termsandconditions.html)).
+Please wear trainers and sports clothes to training sessions. Jeans should not be worn at the University sports facilities (due to [Sports and Wellbeing regulations](https://www.soton.ac.uk/sportandwellbeing/membership/termsandconditions.html)).
 
 Taster sessions
 ---------------
