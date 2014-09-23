@@ -12,7 +12,7 @@ Please wear trainers and sports clothes to training sessions. Jeans should not b
 Taster sessions
 ---------------
 
-A taster session is usually held on the weekend at the end of Freshers' Week. This year's session will be on **Saturday 27th September 2014 in the [Old Sports Hall, SUSU Building (42)][OldSportsHall] between 18:00 and 21:00**. Please wear trainers and sports clothes. Bringing a cold drink is recommended.
+A taster session is usually held on the weekend at the end of Freshers' Week. This year's session will be on **Saturday 27th September 2014 in the [Jubilee Sports Hall, Jubilee Sports Centre (18)][JubileeSportsHall] between 18:00 and 21:00**. Please wear trainers and sports clothes. Bringing a cold drink is recommended.
 
 Term time sessions
 ------------------
@@ -38,5 +38,6 @@ During vacations
 
 During vacations, our novice sessions do not run, but all fencers are welcome to attend the intermediate and advanced sessions, which typically continue (subject to room closures for University maintenance). Check [our Facebook group]({{site.links.facebook_group}}) beforehand to find out whether a session is going ahead.
 
+[JubileeSportsHall]: http://maps.southampton.ac.uk/#1/19/50.93389/-1.39649 "Map showing the Jubilee Sports Centre"
 [OldSportsHall]: http://maps.southampton.ac.uk/#1/20/50.93400/-1.39753 "Map showing the Old Sports Hall"
 [ActivitiesRoom]: http://maps.southampton.ac.uk/#2/20/50.93395/-1.39797 "Map showing the Activities Room"
