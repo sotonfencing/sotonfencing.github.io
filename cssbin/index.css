@@ -40,7 +40,8 @@ html {
   font-style: italic;
   color: #ff1919;
 }
-.main .bottomNav > a:hover {
+.main .bottomNav > a:hover,
+.main .bottomNav > a:focus {
   background-image: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.7), transparent);
   color: white;
 }
@@ -73,9 +74,12 @@ html {
   color: gray;
 }
 .legalGumph a,
-.legalGumph a:hover,
 .legalGumph a:visited {
   color: #A0A0A0;
+}
+.legalGumph a:hover,
+.legalGumph a:focus {
+  color: white;
 }
 @media (max-width: 30em) {
   .legalGumph {

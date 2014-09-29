@@ -61,7 +61,7 @@ html {
 			font-style: italic;
 			color: @accent-color;
 
-			&:hover {
+			&:hover, &:focus {
 				background-image: linear-gradient(
 					to right,
 					transparent, rgba(255, 255, 255, 0.7), transparent);
@@ -92,9 +92,8 @@ html {
 	text-align: right;
 	color: gray;
 
-	a, a:hover, a:visited {
-		color: #A0A0A0;
-	}
+	a, a:visited     { color: #A0A0A0; }
+	a:hover, a:focus { color: white; }
 
 	@media (max-width: @mainWidth) {
 		.unposition();
