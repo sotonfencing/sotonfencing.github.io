@@ -47,6 +47,22 @@ a:visited {
   margin: 0 auto;
   zoom: 1;
 }
+.skip-link {
+  position: absolute;
+  left: -100%;
+  overflow: hidden;
+  padding: 0.3em;
+  border-bottom-right-radius: 0.3em;
+  background-color: #ff1919;
+}
+.skip-link:focus {
+  position: static;
+}
+.skip-link:focus {
+  position: absolute;
+  left: 0;
+  color: white;
+}
 .site-header {
   border-top: 5px solid #333;
   border-bottom: 1px solid #e8e8e8;
