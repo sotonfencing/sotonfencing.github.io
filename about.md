@@ -12,7 +12,7 @@ Fencing never fails to conjure images of swashbuckling heroes, clashing swords a
 
 Or maybe you've actually tried it. In which case it probably brings to mind images of wildly-stabbing novices, shouting sabreurs, and that time the Men's Captain got chased around the hall by a Frenchman in just his boxers.
 
-Either way, modern fencing is a sport of speed, dexterity, and tactics, and is the only sport to feature in every modern Olympic Games. It's a great way to improve your co-ordination, balance and flexibility, not to mention fantastic fun. So let the stabbing begin!
+Either way, modern fencing is a sport of speed, dexterity, and tactics, and is one of only five sports to feature in every modern Olympic Games. It's a great way to improve your co-ordination, balance and flexibility, not to mention fantastic fun. So let the stabbing begin!
 
 About the Club
 --------------
