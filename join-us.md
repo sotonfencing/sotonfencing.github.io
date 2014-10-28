@@ -31,7 +31,8 @@ You do not need to buy any equipment to fence with us, as we can lend you all th
 Teams
 -----
 
-Matches take place most Wednesdays in the Autumn term and thin out a bit in the spring. Our teams are in the BUCS Western Conference, so we travel to places like Bath, Bristol, Cardiff and Exeter for away matches. We're always looking for new people, so if you've got some fencing experience and are interested in being on the team then speak to the appropriate team captain.
+Matches take place most Wednesdays in the Autumn term and thin out a bit in the spring. Our teams are in the BUCS Western Conference, so we travel to places like Bath, Bristol, Cardiff and Exeter for away matches. We're always looking for new people, so if you've got some fencing experience and are interested in being on the team then speak to the appropriate team captain. [Membership of British Fencing](http://britishfencing.com/membership/) is required for team members, and costs £30 to £40 per year.
+
 
 Please come and support your teams when we have home matches! Details will be posted on [the Facebook group]({{site.links.facebook_group}}) and announced at training sessions.
 
