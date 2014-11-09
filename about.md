@@ -50,4 +50,4 @@ Contact Us
 
 If you want to get in touch, you can email us at [{{site.email}}](mailto:{{site.email}}), or post on [our Facebook group]({{site.links.facebook_group}}).
 
-For website-related issues, you can email our webmaster at [webmaster@sotonfencing.co.uk](mailto:webmaster@sotonfencing.co.uk).
+For website-related issues, you can email our webmaster at [{{site.webmaster_email}}](mailto:{{site.webmaster_email}}).
