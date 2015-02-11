@@ -40,7 +40,7 @@ These are the people responsible for running the club. The committee for the 201
 * Treasurer: Oliver Laslett
 * Men's Captain: Duncan Robinson
 * Women's Captain: Felicity Cusack
-* Novice Representative: Christopher Riseley
+* Novice Representative: Alexander Rachwal
 * Armourer: Antoine Du Baret
 * Social Secretary: Elie Antoun
 * Webmaster: Harry Cutts
