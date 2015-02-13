@@ -3,12 +3,14 @@ layout: page
 sort_order: 1
 title: About
 permalink: /about/
+
+itemtype: http://schema.org/SportsOrganization
 ---
 
 About Fencing
 -------------
 
-Fencing never fails to conjure images of swashbuckling heroes, clashing swords as they kick furniture around (and generally do everything possible to create a massive Home Contents Insurance claim).
+<span itemprop="sport">Fencing</span> never fails to conjure images of swashbuckling heroes, clashing swords as they kick furniture around (and generally do everything possible to create a massive Home Contents Insurance claim).
 
 Or maybe you've actually tried it. In which case it probably brings to mind images of wildly-stabbing novices, shouting sabreurs, and that time the Men's Captain got chased around the hall by a Frenchman in just his boxers.
 
@@ -17,7 +19,7 @@ Either way, modern fencing is a sport of speed, dexterity, and tactics, and is o
 About the Club
 --------------
 
-We cater for all ability levels, from novices to those competing at the highest levels. We run several training sessions aimed at different skill groups, and we have a qualified coach to ensure that everyone gets the most from the sessions.
+<span itemprop="name">Southampton University Fencing Club</span> caters for all ability levels, from novices to those competing at the highest levels. We run several training sessions aimed at different skill groups, and we have a qualified coach to ensure that everyone gets the most from the sessions.
 
 Our members compete in various competitions all around the country, ranging from the student-run [Warwick Novices](http://warwickfencing.com/national-novices/) and [LIUF](http://uclufencing.co.uk/liuf/) tournaments to opens and the [BUCS](http://bucs.org.uk/) championships.
 
@@ -48,6 +50,6 @@ These are the people responsible for running the club. The committee for the 201
 Contact Us
 ----------
 
-If you want to get in touch, you can email us at [{{site.email}}](mailto:{{site.email}}), or post on [our Facebook group]({{site.links.facebook_group}}).
+If you want to get in touch, you can email us at <a itemprop="email" href="mailto:{{site.email}}">{{site.email}}</a>, or post on [our Facebook group]({{site.links.facebook_group}}).
 
 For website-related issues, you can email our webmaster at [{{site.webmaster_email}}](mailto:{{site.webmaster_email}}).
