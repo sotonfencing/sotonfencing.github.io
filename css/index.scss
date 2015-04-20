@@ -1,6 +1,10 @@
-@import (reference) "color-scheme.less";
+---
+# Including empty front-matter makes Jekyll convert this SCSS file to plain CSS
+---
 
-.unposition() {
+@import "color-scheme";
+
+@mixin unposition() {
 	position: static;
 	top: auto;
 	bottom: auto;
@@ -19,7 +23,7 @@ html {
 	color: white;
 }
 
-@mainWidth: 30em;
+$mainWidth: 30em;
 
 .main {
 	position: fixed;
@@ -32,11 +36,11 @@ html {
 	.title {
 		text-align: center;
 
-		.titleEmph { color: @accent-color; }
+		.titleEmph { color: $accent-color; }
 	}
 
 	.description {
-		max-width: @mainWidth;
+		max-width: $mainWidth;
 		margin: 2em auto;
 		padding: 0.5em;
 
@@ -45,7 +49,7 @@ html {
 	}
 
 	.bottomNav {
-		max-width: @mainWidth;
+		max-width: $mainWidth;
 		padding: 1em 0;
 		border-width: 1px 0;
 		margin: 0 auto;
@@ -61,7 +65,7 @@ html {
 			white-space: nowrap;
 
 			font-style: italic;
-			color: @accent-color;
+			color: $accent-color;
 
 			&:hover, &:focus {
 				background-image: linear-gradient(
@@ -72,11 +76,11 @@ html {
 		}
 	}
 
-	@media (max-width: @mainWidth) {
-		.unposition();
+	@media (max-width: $mainWidth) {
+		@include unposition();
 
 		.bottomNav {
-			.unposition();
+			@include unposition();
 			& > a {
 				padding-top: 0;
 				padding-bottom: 0;
@@ -97,8 +101,8 @@ html {
 	a, a:visited     { color: #A0A0A0; }
 	a:hover, a:focus { color: white; }
 
-	@media (max-width: @mainWidth) {
-		.unposition();
+	@media (max-width: $mainWidth) {
+		@include unposition();
 
 		margin-top: 2em;
 		text-align: center;

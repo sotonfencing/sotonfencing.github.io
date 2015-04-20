@@ -1,15 +1,19 @@
-@import (reference) "color-scheme.less";
+---
+# Including empty front-matter makes Jekyll convert this SCSS file to plain CSS
+---
+
+@import "color-scheme";
 
 // Mixins //
 
-.xbrowser-calc-width(@expr) {
-	width: -webkit-calc(@expr);
-	width:    -moz-calc(@expr);
-	width:      -o-calc(@expr);
-	width:         calc(@expr);
+@mixin xbrowser-calc-width($expr) {
+	width: -webkit-calc($expr);
+	width:    -moz-calc($expr);
+	width:      -o-calc($expr);
+	width:         calc($expr);
 }
 
-.focus-only() {
+@mixin focus-only() {
 	position: absolute;
 	left: -100%;
 	overflow: hidden;
@@ -62,14 +66,14 @@ a:visited        { color: #205caa; }
 // Header
 
 .skip-link {
-	.focus-only();
+	@include focus-only();
 
-	@padding: 0.3em;
-	padding: @padding;
+	$padding: 0.3em;
+	padding: $padding;
 
-	border-bottom-right-radius: @padding;
+	border-bottom-right-radius: $padding;
 
-	background-color: @accent-color;
+	background-color: $accent-color;
 	&:focus {
 		position: absolute;
 		left: 0;
@@ -138,17 +142,17 @@ a:visited        { color: #205caa; }
 
 .footer-col-1 {
 	width: 270px; // fallback
-	.xbrowser-calc-width(35% ~"-" 10px);
+	@include xbrowser-calc-width("35% - 10px");
 	margin-right: 10px
 }
 .footer-col-2 {
 	width: 175px; // fallback
-	.xbrowser-calc-width(23.125% ~"-" 10px);
+	@include xbrowser-calc-width("23.125% - 10px");
 	margin-right: 10px
 }
 .footer-col-3 {
 	width: 335px; // fallback
-	.xbrowser-calc-width(41.875%);
+	@include xbrowser-calc-width(41.875%);
 }
 
 .github-icon-svg,
@@ -357,7 +361,7 @@ a:visited        { color: #205caa; }
 
 	.footer-col-2 {
 		width: 45%; // fallback
-		.xbrowser-calc-width(50% ~"-" 10px);
+		@include xbrowser-calc-width("50% - 10px");
 		margin-right: 0;
 	}
 
