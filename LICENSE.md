@@ -1,3 +1,3 @@
-&copy; 2014 Southampton University Fencing Club
+&copy; 2015 Southampton University Fencing Club
 
 All rights reserved.
