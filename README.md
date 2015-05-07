@@ -3,7 +3,7 @@
 
 This is the website for Southampton University Fencing Club, hosted at [sotonfencing.co.uk](http://sotonfencing.co.uk/). It uses the [Jekyll](http://jekyllrb.com/) static site generator.
 
-New webmasters are strongly advised to read at least the "Getting Started" section of [the Jekyll documentation](http://jekyllrb.com/docs/home/).
+New webmasters are strongly advised to read at least the "Getting Started" section of [the Jekyll documentation](http://jekyllrb.com/docs/home/). Most pages are written in [Markdown](https://help.github.com/articles/markdown-basics), with [GitHub extensions](https://help.github.com/articles/github-flavored-markdown/).
 
 CSS and SCSS
 ------------
