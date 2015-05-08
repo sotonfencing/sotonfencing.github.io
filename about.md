@@ -37,15 +37,15 @@ The Committee
 
 These are the people responsible for running the club. The committee for the 2014-2015 academic year are:
 
-* President: Kelly Jackson
-* Secretary: Rachel Burden
+* President: Sam Ogden
+* Secretary: Ewan Chaplin
 * Treasurer: Oliver Laslett
-* Men's Captain: Duncan Robinson
-* Women's Captain: Felicity Cusack
+* Men's Captain: Pete Senior
+* Women's Captain: Kate Arnold
 * Novice Representative: Alexander Rachwal
-* Armourer: Antoine Du Baret
+* Armourer: Samuel Raphael
 * Social Secretary: Elie Antoun
-* Webmaster: Harry Cutts
+* Webmaster: Alexander Pateman
 
 Contact Us
 ----------
