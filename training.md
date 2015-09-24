@@ -27,11 +27,11 @@ This session is focussed on beginner fencers. Our coach and more experienced mem
 
 ### Intermediate and advanced sessions ###
 
-**Mondays from 17:00 until 19:00, in the http://maps.southampton.ac.uk/?#2/20/50.93400/-1.39747.**
+**Mondays from 17:00 until 19:00, in The Cube.**
 
 Team training organised by the Captains; dedicated to training for matches.
 
-**Thursdays from 17:00 until 19:00, in the http://maps.southampton.ac.uk/?#2/20/50.93400/-1.39747.**
+**Thursdays from 17:00 until 19:00, in The Cube.**
 
 Free fencing, but part of the session will be given over to analysis of the week's matches. Generally for more experienced fencers.
 
