@@ -27,15 +27,15 @@ This session is focussed on beginner fencers. Our coach and more experienced mem
 
 ### Intermediate and advanced sessions ###
 
-**Mondays from 17:00 until 19:00, in The Cube.**
+**Mondays from 17:00 until 19:00, in The Cube, SUSU Building 42.**
 
 Team training organised by the Captains; dedicated to training for matches.
 
-**Thursdays from 17:00 until 19:00, in The Cube.**
+**Thursdays from 17:00 until 19:00, in the [Activities Room, SUSU Building (42)][ActivitiesRoom].**
 
-Free fencing, but part of the session will be given over to analysis of the week's matches. Generally for more experienced fencers.
+Free fencing, but part of the session will be given over to analysis of the week's matches. This session is generally for more experienced fencers. Due to the size constraints of the room only two pistes will be set up on the Thursday sessions, so time on piste will be limited if we have large numbers present.
 
-**Fridays from 17:00 until 19:00, in the [Activities Room, SUSU Building (42)][ActivitiesRoom].**
+**Fridays from 17:00 until 19:00, in The Cube, SUSU BUilding 42.**
 
 Free fencing for all in any weapon, regardless of experience.
 
