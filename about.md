@@ -35,17 +35,19 @@ We have regular socials (including non-alcoholic socials) that take many forms, 
 The Committee
 -------------
 
-These are the people responsible for running the club. The committee for the 2014-2015 academic year are:
+These are the people responsible for running the club. The committee for the 2016-2017 academic year are:
 
-* President: Sam Ogden
-* Secretary: Ewan Chaplin
-* Treasurer: Oliver Laslett
-* Men's Captain: Pete Senior
-* Women's Captain: Kate Arnold
-* Novice Representative: Alexander Rachwal
-* Armourer: Samuel Raphael
-* Social Secretary: Elie Antoun
-* Webmaster: Alexander Pateman
+* President: Kate Arnold
+* Secretary: Michael Awang
+* Treasurer: Liam Baldieri
+* Men's Captain: Benedict Cowan
+* Men's 2nd Captain: Mike Pollard
+* Women's Captain: Alex Moor
+* Novice Representative: Lizzie Leahy
+* Armourer: Elie Antoun
+* Social Secretary: Jordan Block
+* Webmaster: Ewan Chaplin
+* Ordinary Member: Olly Winder
 
 Contact Us
 ----------
