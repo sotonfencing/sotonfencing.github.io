@@ -39,7 +39,7 @@ These are the people responsible for running the club. The committee for the 201
 
 * President: Kate Arnold
 * Secretary: Michael Awang
-* Treasurer: Liam Baldieri
+* Treasurer: Joanne Cornish
 * Men's Captain: Benedict Cowan
 * Men's 2nd Captain: Mike Pollard
 * Women's Captain: Alex Moor
