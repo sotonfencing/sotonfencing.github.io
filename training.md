@@ -27,7 +27,7 @@ This session is focussed on beginner fencers. Our coach and more experienced mem
 
 ### Intermediate and advanced sessions ###
 
-**Mondays from 17:30 until 19:00, in The Cube, SUSU Building 42.**
+**Mondays from 17:00 until 19:00, in The Cube, SUSU Building 42.**
 
 Team training organised by the Captains; dedicated to training for matches.
 
