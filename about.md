@@ -35,19 +35,19 @@ We have regular socials (including non-alcoholic socials) that take many forms, 
 The Committee
 -------------
 
-These are the people responsible for running the club. The committee for the 2016-2017 academic year are:
+These are the people responsible for running the club. The committee for the 2017-2018 academic year are:
 
-* President: Kate Arnold
-* Secretary: Michael Awang
-* Treasurer: Joanne Cornish
-* Men's Captain: Benedict Cowan
-* Men's 2nd Captain: Mike Pollard
-* Women's Captain: Alex Moor
-* Novice Representative: Lizzie Leahy
-* Armourer: Elie Antoun
-* Social Secretary: Jordan Block
-* Webmaster: Ewan Chaplin
-* Ordinary Member: Olly Winder
+* President: Alex Moor
+* Secretary: Oliver Winder
+* Treasurer: Hynek Paul
+* Men's Captain: Sam Ogden
+* Men's 2nd Captain: Oliver Winder
+* Women's Captain: Patricia Kiy
+* Novice Representative and Officer of Wellbeing: Alexander Lowe
+* Armourer: Mike Pollard and Benedict Cowan
+* Social Secretary: Dean Benavidez and Ollie Baggs
+* Webmaster: Bethany Holland
+* Ordinary Member: Michael Awang
 
 Contact Us
 ----------
