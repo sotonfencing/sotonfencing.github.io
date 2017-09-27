@@ -21,21 +21,21 @@ During [term time](http://www.calendar.soton.ac.uk/semesters.html), we run a num
 
 ### Novice training ###
 
-**Saturdays from 16:30 until 18:30, in the [Old Sports Hall, SUSU Building (42)][OldSportsHall].**
+**Saturdays from 16:30 until 18:30, in the [Old Sports Hall, Union Building (42)][OldSportsHall].**
 
 This session is focussed on beginner fencers. Our coach and more experienced members will give introductory training in foil fencing, covering posture, footwork, and blade work. A typical session starts with warm up exercises or games, followed by teaching and a chance to practice by fencing both novice and experienced fencers.
 
 ### Intermediate and advanced sessions ###
 
-**Mondays from 17:00 until 19:00, in The Cube, SUSU Building 42.**
+**Mondays from 17:00 until 19:00, in The Cube, Union Building 42.**
 
 Team training organised by the Captains; dedicated to training for matches.
 
-**Thursdays from 17:00 until 19:00, in the [Activities Room, SUSU Building (42)][ActivitiesRoom].**
+**Thursdays from 17:00 until 19:00, in the [Activities Room, Union Building (42)][ActivitiesRoom].**
 
 Free fencing, but part of the session will be given over to analysis of the week's matches. This session is generally for more experienced fencers. Due to the size constraints of the room only two pistes will be set up on the Thursday sessions, so time on piste will be limited if we have large numbers present.
 
-**Fridays from 16:00 until 19:00, in The Cube, SUSU Building 42.**
+**Fridays from 15:30 until 19:00, in The Cafe, Union Building 42.**
 
 Free fencing for all in any weapon, regardless of experience.
 
