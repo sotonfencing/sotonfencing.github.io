@@ -39,15 +39,15 @@ These are the people responsible for running the club. The committee for the 201
 
 * President: Ross Viljoen
 * Secretary: Helena Henry 
-* Treasurer: Kate Matthews
+* Treasurer: Alexander Lowe
 * Men's Captain: Dominic Aston
 * Men's 2nd Captain: Oliver Winder
 * Women's Captain: Isobel Clark
 * Novice Representative and Officer of Wellbeing: Eleanor Bishop
 * Armourer: Oliver Winder
-* Social Secretary: To be decided at the start of the academic year
+* Social Secretary: Thomas Munro O'Brien
 * Webmaster: Bethany Holland
-* Ordinary Member: Alexander Lowe
+* Ordinary Member: Alastair Winder
 
 Contact Us
 ----------
