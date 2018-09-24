@@ -25,7 +25,7 @@ Our members compete in various competitions all around the country, ranging from
 
 We also accept non-student members, though for insurance reasons we generally do not accept members below the age of 18.
 
-Members who decide to partake in our novice sessions on Saturdays will require a Sports and Wellbeing Pass, details about this are given at the beginning of the academic year in our first few sessions and when new members join, however if you have any questions about this then feel free to contact the fencing committee. Contact details can be found at the bottom of this page.
+Members who decide to partake in our novice sessions on Saturdays will require a Sports and Wellbeing Pass, details about this are given at the beginning of the academic year in our first few sessions and when new members join, however if you have any questions about this then please feel free to contact the fencing committee. Contact details can be found at the bottom of this page.
 
 If you're aged 16 or over please get in touch with us to find out whether we can accommodate you; otherwise, we would recommend getting in touch with [Hampshire Fencing](http://www.hampshirefencing.org.uk/) to find your nearest other club.
 
