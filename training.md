@@ -12,7 +12,7 @@ Please wear trainers and sports clothes to training sessions. Jeans should not b
 Taster sessions
 ---------------
 
-A taster session is usually held on the weekend at the end of Freshers' Week. This year's session will be on **Saturday 29th September 2017 in the [Jubilee Sports Hall, Jubilee Sports Centre (18)][JubileeSportsHall] between 18:00 and 21:00**. Please wear trainers and sports clothes. Bringing a cold drink is recommended.
+A taster session is usually held on the weekend at the end of Freshers' Week. This year's session will be on **Saturday 29th September 2018 in the [Jubilee Sports Hall, Jubilee Sports Centre (18)][JubileeSportsHall] between 18:00 and 21:00**. Please wear trainers and sports clothes. Bringing a cold drink is recommended.
 
 Term time sessions
 ------------------
