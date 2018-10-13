@@ -14,7 +14,8 @@ If you're an experienced fencer already, come along to one of our [intermediate 
 Fees
 ----
 
-You can find information about our fees on [our SUSU groups page]({{site.links.susu_group}}). Fees can be paid in cash (either to our Treasurer or at SUSU Reception) or online. Student entitlement cards can be used.
+You can find information about our fees on [our SUSU groups page]({{site.links.susu_group}}). Fees need to be paid via the Southampton Union Box office at https://boxoffice.susu.org/view/322/memberships.
+
 
 Non-students or students at other universities will also have to be affiliate members of the Southampton University Students Union. This can be purchased at the SUSU Reception and costs about £11 for the academic year.
 
