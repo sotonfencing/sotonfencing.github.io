@@ -43,7 +43,7 @@ These are the people responsible for running the club. The committee for the 201
 * Secretary: Helena Henry 
 * Treasurer: Alexander Lowe
 * Men's Captain: Dominic Aston
-* Men's 2nd Captain: Oliver Winder
+* Men's 2nd Captain: Nicholas Horton
 * Women's Captain: Isobel Clark
 * Novice Representative and Officer of Wellbeing: Eleanor Bishop
 * Armourer: Oliver Winder
