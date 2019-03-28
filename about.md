@@ -48,7 +48,7 @@ These are the people responsible for running the club. The committee for the 201
 * Novice Representative and Officer of Wellbeing: Eleanor Bishop
 * Armourer: Oliver Winder
 * Social Secretary: Thomas Munro O'Brien
-* Webmaster: Bethany Holland
+* Webmaster: Alastair Winder
 * Ordinary Member: Alastair Winder
 
 Contact Us
