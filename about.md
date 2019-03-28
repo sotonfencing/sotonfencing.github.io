@@ -39,17 +39,17 @@ The Committee
 
 These are the people responsible for running the club. The committee for the 2018-2019 academic year are:
 
-* President: Ross Viljoen
-* Secretary: Helena Henry 
-* Treasurer: Alexander Lowe
-* Men's Captain: Dominic Aston
-* Men's 2nd Captain: Oliver Winder
+* President: Patricia Kiy
+* Secretary: Ross Viljoen
+* Treasurer: Peter Varga
+* Men's Captain: Matthew Jerome
+* Men's 2nd Captain: Gregory Davies
 * Women's Captain: Isobel Clark
-* Novice Representative and Officer of Wellbeing: Eleanor Bishop
-* Armourer: Oliver Winder
-* Social Secretary: Thomas Munro O'Brien
-* Webmaster: Bethany Holland
-* Ordinary Member: Alastair Winder
+* Novice Representative and Officer of Wellbeing: Ewan Gauvin
+* Armourer: Alessio Velardi
+* Social Secretary: Lucy Croxford
+* Webmaster: Alastair Winder
+* Ordinary Member: Thomas Munro O'Brien
 
 Contact Us
 ----------
