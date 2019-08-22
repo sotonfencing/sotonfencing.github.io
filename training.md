@@ -12,7 +12,7 @@ Please wear trainers and sports clothes to training sessions. Jeans should not b
 Taster sessions
 ---------------
 
-A taster session is usually held on the weekend at the end of Freshers' Week. This year's session will be on **Saturday 29th September 2018 in the [Jubilee Sports Hall, Jubilee Sports Centre (18)][JubileeSportsHall] between 18:00 and 21:00**. Please wear trainers and sports clothes. Bringing a cold drink is recommended.
+A taster session is usually held on the weekend at the end of Freshers' Week. This year's session will be on **Saturday 28th September 2019 in the [Jubilee Sports Hall, Jubilee Sports Centre (18)][JubileeSportsHall] between 18:00 and 21:00**. Please wear trainers and sports clothes. Bringing a cold drink is recommended.
 
 Term time sessions
 ------------------
@@ -31,7 +31,7 @@ This session is focussed on beginner fencers. Our coach and more experienced mem
 
 Team training organised by the Captains; dedicated to training for matches.
 
-**Thursdays - Yet To Be Announced**
+**Thursdays from 17:00 until 19:00, in The Activities Room, Union Building 42**
 
 Free fencing, but part of the session will be given over to analysis of the week's matches. This session is generally for more experienced fencers. Due to the size constraints of the room only two pistes will be set up on the Thursday sessions, so time on piste will be limited if we have large numbers present.
 
