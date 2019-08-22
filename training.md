@@ -23,7 +23,7 @@ During [term time](http://www.calendar.soton.ac.uk/semesters.html), we run a num
 
 **Saturdays from 16:30 until 18:30, in the [Old Sports Hall, Union Building (42)][OldSportsHall].**
 
-This session is focussed on beginner fencers. Our coach and more experienced members will give introductory training in foil fencing, covering posture, footwork, and blade work. A typical session starts with warm up exercises or games, followed by teaching and a chance to practice by fencing both novice and experienced fencers.
+This session is focused on beginner fencers. Our coach and more experienced members will give introductory training in foil fencing, covering posture, footwork, and blade work. A typical session starts with warm up exercises or games, followed by teaching and a chance to practice by fencing both novice and experienced fencers.
 
 ### Intermediate and advanced sessions ###
 
