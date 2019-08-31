@@ -17,7 +17,7 @@ A taster session is usually held on the weekend at the end of Freshers' Week. Th
 Term time sessions
 ------------------
 
-During [term time](http://www.calendar.soton.ac.uk/semesters.html), we run a number of weekly training sessions.
+During [term time](http://www.calendar.soton.ac.uk/semesters.html), we run a number of weekly training sessions. Listed below:
 
 ### Novice training ###
 
