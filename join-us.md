@@ -14,7 +14,7 @@ If you're an experienced fencer already, come along to one of our [intermediate 
 Fees
 ----
 
-You can find information about our fees on [our SUSU groups page]({{site.links.susu_group}}). Fees need to be paid via the Southampton Union Box office, this can be done in person in the Union Building 42, or via the SUSU Box Office website.
+Membership fees can be paid for on [our SUSU groups page]({{site.links.susu_group}}). Students, Staff & Alumni as well as external memberships are available for the year or for one semester.
 
 
 Non-students or students at other universities will also have to be affiliate members of the Southampton University Students Union. This can be purchased at the SUSU Reception and costs about £11 for the academic year.
